@@ -1,0 +1,15 @@
+module-name:
+    rohansachContigFilter
+
+module-description:
+    A KBase module to filter contigs by length
+
+service-language:
+    python
+
+module-version:
+    0.0.1
+
+owners:
+    [rohansach]
+
